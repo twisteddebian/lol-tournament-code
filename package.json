@@ -3,17 +3,17 @@
     "license": "MIT",
     "description": "A League of Legends tournament code generator",
     "version": "1.0.1",
-    "homepage": "https://github.com/Pupix/lol-tournament-code",
-    "author": "Robert Manolea <manolea.robert@gmail.com>",
+    "homepage": "https://github.com/twisteddebian/lol-tournament-code",
+    "author": "twisteddebian - join me on Discord!",
     "contributors": [
-        "Robert Manolea <manolea.robert@gmail.com>"
+        "twisteddebian"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/Pupix/lol-tournament-code.git"
+        "url": "https://github.com/twisteddebian/lol-tournament-code.git"
     },
     "bugs": {
-        "url" : "https://github.com/owner/project/issues"
+        "url" : "https://github.com/twisteddebian/lol-tournament-code/pulls"
     },
     "dependencies": {
         "expandjs": "0.10.0"
